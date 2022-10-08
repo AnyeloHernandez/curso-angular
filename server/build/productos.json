@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Champú",
+        "precio": "Q40.00",
+        "cantidad": 10,
+        "imagen": "https://pluspng.com/img-png/png-shampoo-shampoo-png-1134.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Jabón",
+        "precio": "Q20.00",
+        "cantidad": 18,
+        "imagen": "https://pngimg.com/uploads/soap/soap_PNG37.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Pasta de dientes",
+        "precio": "Q25.00",
+        "cantidad": 20,
+        "imagen": "https://cdn.pixabay.com/photo/2016/10/03/19/00/toothpaste-1712522_960_720.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Frijoles en lata",
+        "precio": "Q10.00",
+        "cantidad": 10,
+        "imagen": "https://cdn.pacifiko.com/image/cache/catalog/p/NzE1ZTk3ZD-1000x1000.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Café",
+        "precio": "Q70.00",
+        "cantidad": 13,
+        "imagen": "https://jumbo.vteximg.com.br/arquivos/ids/349439/Principal-13976.jpg?v=637315076436800000"
+    }
+]

@@ -1,0 +1,13 @@
+<div class="col-md-4" *ngFor="let producto of productos">
+    <div class="card text-center" style="width: 20rem">
+        <div class="card-header">
+            {{ producto.nombre }}
+        </div>
+        <div class="card-body">
+            <img [src]="producto.imagen" class="card-img-top" alt="Card image cap" style="height: 18rem;">
+            <p class="card-text">Precio: {{ producto.precio }}
+                <br>Inventario: {{ producto.cantidad }}
+            </p>
+        </div>
+    </div>
+</div>
